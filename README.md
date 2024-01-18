@@ -11,5 +11,5 @@ The concept of this strategy is to **buy** or **sell** break outs of volatile st
 In my analysis I downloaded data from **yfinance API** and developed several functions that helped me to better calculate returns and overall measurments of the strategy.
 
 Aim of this excercise was **not** to perform but to test the overall strategy over a certain period of time under certain conditions.
-The strategy yielded negative results with a **100% loss of capital** in the overall period
+The strategy yielded negative results with a **100% loss of capital** in the overall period.
 
